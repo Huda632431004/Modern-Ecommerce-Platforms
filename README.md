@@ -35,18 +35,17 @@ Activities of customers on our website.
 
 - Starts with the customer opening our website it will show **Browser Menu Page**.
 - **Search an item** Customers can search for the products they want on our website.
-<div style="text-align: center;"> 
-    <img src="image/Bsearch item1.png" alt="image" width="30%"> 
-    <img src="image/BSearch item2.png" alt="image" width="30%"> 
+<div style="text-align: center;"> //Wordpress
+    <img src="image/BSearch item2.png" alt="image" width="50%"> 
 </div>
 
 - **Add Item to Cart** Finished adding desired products to cart, Customer can also reduce or add products as desired and this will lead to the next step.
-<div style="text-align: center;"> 
+<div style="text-align: center;"> //Wordpress
     <img src="image/BAdd item2.png" alt="image" width="30%"> 
 </div>
 
 - **Manage Cart** will display the details of the product list, The number of orders, the price, and the total amount automatically.
-<div style="text-align: center;"> 
+<div style="text-align: center;"> //Wordpress
     <img src="image/BManage Cart.png" alt="image" width="30%"> 
 </div>
 
@@ -54,14 +53,13 @@ Activities of customers on our website.
 - **Payment** You can choose from 2 payment channels: 
 * Transfer
 * COD (Cash On Deliver)
-<div style="text-align: center;"> 
-    <img src="image/BCheck out1.png" alt="image" width="30%"> 
+<div style="text-align: center;"> //Wordpress
     <img src="image/BCheck out2.png" alt="image" width="30%"> 
 </div>
 
 - **Review Order** Customers can check the status of their orders whether they are successful or not through this page.
-<div style="text-align: center;"> 
-    <img src="image/BRecieved Order.png" alt="image" width="30%"> 
+<div style="text-align: center;"> //Wordpress
+    <img src="image/BRecived Order.png" alt="image" width="30%"> 
 </div>
 
 - **Check Order Status** once the product has been dispatched, customers can check the status of their order.

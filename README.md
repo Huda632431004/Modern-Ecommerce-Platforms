@@ -134,7 +134,8 @@ Experimentation and testing are critical aspects of optimizing an e-commerce web
 * Personally, I think woocommerce There's still a lot to try out. If we develop it further It may create more income and sales. and save a lot of expenses whether it is about Hire more employees to take care of the system or admin. If we can do this, it will reduce costs and time even more.
 
 ### V.CONCLUSION
-Ecommerce on WordPress is valuable and starting an online business or expanding one will offer you the guidance and continuity of an accessible online store and reach customers across the globe through. Internet simultaneously made easier
+Ecommerce on WordPress is valuable and starting an online business or expanding one will offer you the guidance and continuity of an accessible online store and reach customers across the globe through. Internet simultaneously made easier.
+Therefore, I think that using social media is important in living life and is considered our 5 factor, it's something that can generate a lot of income for us if we can build on it and take advantage of it from this study, it is considered that WordPress is very useful for online stores.
 ### REFERENCES
 -https://chat.openai.com/c/2eccc2b3-fdb0-4328-87ee-de8ad72950bb.
 

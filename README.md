@@ -36,8 +36,8 @@ Activities of customers on our website.
 - Starts with the customer opening our website it will show **Browser Menu Page**.
 - **Search an item** Customers can search for the products they want on our website.
 <div style="text-align: center;"> 
-    <img src="image/BSearch item1.png" alt="image" width="30%">
-    <img src="image/BSearch item2.png" alt="image" width="30%"> 
+    <img src="image/Bsearch item1.png" alt="image" width="30%">
+    <img src="image/Bsearch item2.png" alt="image" width="30%"> 
 </div>
 
 - **Add Item to Cart** Finished adding desired products to cart, Customer can also reduce or add products as desired and this will lead to the next step.
